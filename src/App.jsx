@@ -43,7 +43,7 @@ const App = () => {
           <BarraLateral />
           <ConteudoGaleria>
             <Banner
-              texto="A galeria mais completa de fotos do espaço!"
+              texto="A galeria mais completa com fotos lindas do espaço!"
               backgroundImage={bannerBackground}
             />
             <Galeria fotos={fotosDaGaleria} />
