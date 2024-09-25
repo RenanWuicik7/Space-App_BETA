@@ -46,6 +46,7 @@ const App = () => {
               texto="A galeria mais completa com fotos lindas do espaço!"
               backgroundImage={bannerBackground}
             />
+            <p>Isso é um texto de teste/exemplo para um tópico</p>
             <Galeria fotos={fotosDaGaleria} />
           </ConteudoGaleria>
         </MainContainer>
